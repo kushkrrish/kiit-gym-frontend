@@ -12,7 +12,7 @@ function App() {
       <main className="flex-grow p-6">
         <Outlet />
       </main>
-      <Footer />
+     
 
     </div>
   );
